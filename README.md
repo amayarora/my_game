@@ -1,7 +1,6 @@
 **Disclaimer**
-
+__________________________________________________________________________________________________________________________________________
 This game is still in progress, and will be finished shortly. Thank you for reading disclaimer, I very much appreciate it.
-*DucksWorld101*
 
 # my_game
 
