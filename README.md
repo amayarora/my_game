@@ -1,4 +1,4 @@
-***Disclaimer**: This game is still in progress, and will be finished shortly. Thank you for reading disclaimer, I very much appreciate it.*
+_**Disclaimer**: This game is still in progress, and will be finished shortly. Thank you for reading disclaimer, I very much appreciate it._
 
 # my_game
 
