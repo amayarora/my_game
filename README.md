@@ -1,4 +1,4 @@
-_**Disclaimer**: The game file, **superstore_showdown.owl**, is still in progress, and will be finished shortly. Thank you for reading this disclaimer, I very much appreciate it._
+_**Disclaimer**: The game file, **superstore_showdown.owl**, is still in progress, and will be finished shortly. Thank you for reading this disclaimer, and I very much appreciate it._
 
 # my_game
 
