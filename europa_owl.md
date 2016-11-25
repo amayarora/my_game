@@ -1,1 +1,0 @@
-Please [click here](https://raw.githubusercontent.com/amayarora/my_game/master/europa_owl) to view the original code of **europa.owl**, thank you for reading this description, and I very much appreciate it.
